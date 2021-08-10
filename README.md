@@ -5,5 +5,4 @@
   - Python
   - Machine Learning
   - Web Security
-- ⚡ Fun fact: I love Wanchan! ("Wanchan" means "a dog" in Japanese)
-
+- ⚡ Fun fact: I love Wanchan! (We call a dog "Wanchan" in Japan)
