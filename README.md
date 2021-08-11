@@ -1,9 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working pplying data science and computational materials approaches in business
+- 🔭 I’m currently working applying data science and computational materials approaches in business;
 - 🌱 I’m currently learning:
   - Data Science
   - Machine Learning
-  - Web Security
+  - Web Security (picoCTF)
 - ⚡ Fun fact: I love Wanchan! (We call a dog "Wanchan" in Japan)
 
 
