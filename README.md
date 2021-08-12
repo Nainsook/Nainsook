@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working applying data science and computational materials approaches in business;
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning;
   - Data Science
   - Machine Learning
   - Web Security (picoCTF)
