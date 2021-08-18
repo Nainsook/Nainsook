@@ -4,8 +4,6 @@
   - Data Science
   - Machine Learning
   - Web Security (picoCTF)
-- ⚡ Fun fact: I love Wanchan! (We call a dog "Wanchan" in Japan)
-
 
 ## Technical skills
 - Python
