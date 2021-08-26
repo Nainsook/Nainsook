@@ -14,6 +14,12 @@
 - Visual Studio Code (VS Code)
   - Draw.io
   - Marp 
+- Computational Chemistry
+  - Gaussian16
+  - GAMESS
+- Molecular Dynamics Simulation
+  - LAMMPS 
+
  
 ## Contacts
 - 📫 tommula38@gmail.com
