@@ -1,24 +1,18 @@
 ## Hi there 👋
-- 🔭 I’m currently working applying data science and computational materials approaches in business;
+- 🔭 Research Scientist with over 4 years experience working in a chemical company;
 - 🌱 I’m currently learning;
   - Machine Learning
   - Web Security (picoCTF)
 
 ## Technical skills
-- Python
-  - Pandas
-  - Scikit-learn
+- Programming    Python (Pandas, scikit-learn)
+
+## Tools
 - Git
 - Vim
-- Visual Studio Code (VS Code)
-  - Draw.io
-  - Marp 
-- Computational Chemistry
-  - Gaussian16 (software)
-  - GAMESS (software)
-- Molecular Dynamics
-  - LAMMPS (simulator)
+- Visual Studio 
+- Gaussian16 (Computational chemistry software)
+- LAMMPS (Molecular Dynamics Simulator)
 
- 
 ## Contacts
 - 📫 tommula38@gmail.com
