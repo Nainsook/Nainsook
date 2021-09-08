@@ -5,7 +5,7 @@
   - Web Security (picoCTF)
 
 ## Technical skills
-- Programming    Python (Pandas, scikit-learn)
+- Programming    Python3 (Pandas, scikit-learn)
 
 ## Tools
 - Git
@@ -13,6 +13,9 @@
 - Visual Studio 
 - Gaussian16 (Computational chemistry software)
 - LAMMPS (Molecular Dynamics Simulator)
+
+## Languages
+- Proficient in speaking and writing Japanese
 
 ## Contacts
 - 📫 tommula38@gmail.com
