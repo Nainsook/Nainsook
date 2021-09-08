@@ -5,7 +5,8 @@
   - Web Security (picoCTF)
 
 ## Technical skills
-- Programming    Python3 (Pandas, scikit-learn)
+- Programming
+  - Python3 (Pandas, scikit-learn)
 
 ## Tools
 - Git
