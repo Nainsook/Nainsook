@@ -6,7 +6,7 @@
 
 ## Technical skills
 - Programming
-  - Python3 (Pandas, scikit-learn)
+  - Python3 (Pandas, Scikit-learn)
 
 ## Tools
 - Git
