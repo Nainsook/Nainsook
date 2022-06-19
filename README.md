@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Research Scientist with over 4 years experience working in a chemical company;
+- 🧑‍🎨 Currently working as an engineer;
 - 🌱 I’m currently learning;
   - AWS Services
   - Project management: Agile process
